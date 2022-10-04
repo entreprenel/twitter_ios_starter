@@ -23,7 +23,8 @@ The following **bonus** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-/Users/Nel/Downloads/twitter 2.gif
+
+![twitter 2](https://user-images.githubusercontent.com/100297534/193716518-6ae747cb-8542-4ff7-9de7-e77cdcb1ff9f.gif)
 
 
 ## User Stories
